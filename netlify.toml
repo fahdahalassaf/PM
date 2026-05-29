@@ -1,0 +1,4 @@
+[build]
+  functions = "netlify/functions"
+
+# Set NEWS_API_KEY in Netlify dashboard → Site settings → Environment variables
